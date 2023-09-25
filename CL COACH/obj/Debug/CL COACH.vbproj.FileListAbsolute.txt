@@ -1,0 +1,38 @@
+c:\users\user\documents\visual studio 2015\Projects\CL COACH\CL COACH\bin\Debug\CL COACH.exe.config
+c:\users\user\documents\visual studio 2015\Projects\CL COACH\CL COACH\bin\Debug\CL COACH.exe
+c:\users\user\documents\visual studio 2015\Projects\CL COACH\CL COACH\bin\Debug\CL COACH.pdb
+c:\users\user\documents\visual studio 2015\Projects\CL COACH\CL COACH\bin\Debug\CL COACH.xml
+c:\users\user\documents\visual studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL COACH.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL COACH.exe
+c:\users\user\documents\visual studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL COACH.xml
+c:\users\user\documents\visual studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL COACH.pdb
+c:\users\user\documents\visual studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL COACH.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form3.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form4.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form5.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form6.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form10.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form11.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form12.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form7.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form8.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form9.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form13.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form14.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form15.resources
+C:\Users\User\documents\visual studio 2015\Projects\CL COACH\CL COACH\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\documents\visual studio 2015\Projects\CL COACH\CL COACH\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\documents\visual studio 2015\Projects\CL COACH\CL COACH\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\documents\visual studio 2015\Projects\CL COACH\CL COACH\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\documents\visual studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL COACH.vbproj.ResolveComReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\CL COACH\CL COACH\bin\Debug\Interop.SHDocVw.dll
+C:\Users\User\documents\visual studio 2015\Projects\CL COACH\CL COACH\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\User\documents\visual studio 2015\Projects\CL COACH\CL COACH\obj\Debug\Interop.SHDocVw.dll
+C:\Users\User\documents\visual studio 2015\Projects\CL COACH\CL COACH\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\User\documents\visual studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.AboutBox1.resources
+C:\Users\User\documents\visual studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form16.resources
+C:\Users\User\documents\visual studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form17.resources
+C:\Users\User\documents\visual studio 2015\Projects\CL COACH\CL COACH\obj\Debug\CL_COACH.Form18.resources
